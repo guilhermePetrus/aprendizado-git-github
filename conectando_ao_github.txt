@@ -1,0 +1,1 @@
+Nessa aula aprendemos a interagir o git ao github para criar repositórios e alocar nossos projetos de maneira online.
