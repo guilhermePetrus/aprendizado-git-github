@@ -1,0 +1,1 @@
+Nesse módulo iremos aprender sobre o git e github, tecnologias essenciais para um desenvolvedor. 
