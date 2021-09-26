@@ -1,0 +1,1 @@
+Nessa aula aprendemos a instalar e a configurar o git para interagir com a máquina local.
