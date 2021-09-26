@@ -1,0 +1,1 @@
+Nessa aula aprendemos os principais comandos para se usar dentro do ubuntu junto ao git.
